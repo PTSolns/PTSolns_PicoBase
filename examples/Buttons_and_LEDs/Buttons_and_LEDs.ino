@@ -13,7 +13,7 @@
 // LED LED1  -> GP14
 // LED LED1  -> GP15
 
-// Setting the pin numbers for the buttons and LEDs. Pin assignments are hardcoded and therefore should not be changed here.
+// Setting the pin numbers for the buttons and LEDs. Pin assignments are hardwired and therefore should not be changed here.
 const int BUT1 = 16;
 const int BUT2 = 17;
 const int LED1 = 14;
