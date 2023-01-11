@@ -2,7 +2,7 @@
 // Last update: Jan 10, 2023
 // contact@PTSolns
 //
-// DESCRIPTION:
+// DESCRIPTION
 // The Pico Base + Proto has two programmable tactile buttons and two red LEDs. These can be programmed in a number of ways. 
 // This example shows a simple application in which button B1 activates LED LED1 while pressed. Similarly for button B2 and LED LED2.
 // Note that for this example no external libraries or other hardware is required.
