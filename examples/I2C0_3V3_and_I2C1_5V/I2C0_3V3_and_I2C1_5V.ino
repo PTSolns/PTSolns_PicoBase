@@ -63,6 +63,7 @@ void setup() {
 
   // Sensor BME280
   mySensor.setI2CAddress(0x77); 
+  mySensor.beginI2C()
 
   // Start the LCD
   lcd.begin(16,2,Wire1); // Note, we are telling the LCD to use Wire1 for I2C.
