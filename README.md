@@ -19,7 +19,7 @@ Pico Base
 
 Pico Base + Proto
 - All features of the Pico Base
-- Interface for standard LCD via two additional mounting holes along the top edge of the PCB.
+- Interface for common 1602 and 2004 LCD via two additional mounting holes along the top edge of the PCB.
 - 4-Pin breakout of various important Pico pins. These are adjacent to the prototyping section.
 - Breadboard-like prototyping section with 30 rows, and 10 columns.
 - Center of prototyping section has jumper pads so that adjacent rows can be connected. Also capable to solder SMD components on jumper pads.
