@@ -30,10 +30,6 @@ void setup() {
   // initialize the LED pin as an output:
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
-
-  // Set LEDs initially to OFF
-  //digitalWrite(LED1, LOW);
-  //digitalWrite(LED2, LOW);
 }
 
 void loop() {
