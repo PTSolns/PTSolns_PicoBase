@@ -26,7 +26,7 @@ The Pico Base and Pico Base + Proto are development boards designed for the Pi P
 - Prototyping section has jumper pads so that adjacent rows can be connected. Also capable to solder SMD components on jumper pads.
 - Seven configurable power rails via jumpers.
 - 2x7 Pin SOIC breakout with 1.27mm pitch.
-- Two configurable red LEDs.
-- Two configurable tactile buttons.
+- Two programmable red LEDs.
+- Two programmable tactile buttons.
 
 Various examples are included in this package. For any comments or questions please contact us at contact@PTSolns.com
