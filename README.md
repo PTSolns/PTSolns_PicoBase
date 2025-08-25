@@ -1,6 +1,6 @@
 # PTSolns Pico Base & Pico Base + Proto
 
-Documentation and Examples for the PTSolns Pico Base and Pico Base + Proto
+Documentation and Examples for the PTSolns [Pico Base](https://ptsolns.com/products/pico-base) and [Pico Base + Proto](https://ptsolns.com/products/pico-base-proto)
 
 The Pico Base and Pico Base + Proto are development boards designed for the Pi Pico. The following outlines the key features:
 
@@ -29,4 +29,4 @@ The Pico Base and Pico Base + Proto are development boards designed for the Pi P
 - Two programmable red LEDs.
 - Two programmable tactile buttons.
 
-Various examples are included in this package. For any comments or questions please contact us at contact@PTSolns.com
+Various examples are included in this package. For any comments or questions please [Contact Us](https://ptsolns.com/pages/contact)
